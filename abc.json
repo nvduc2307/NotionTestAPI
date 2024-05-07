@@ -1,0 +1,28 @@
+[
+    {
+        "object":"user",
+        "id":"4a927103-44d3-48a5-b5c5-1e92d8df0da3",
+        "name":"nvduc2307",
+        "avatar_url":null,
+        "type":"person",
+        "person":{}
+    },
+    {
+        "object":"user",
+        "id":"7a0f4834-472e-4c02-80f2-71bb7a0663ea",
+        "name":"Th? Ph?m",
+        "avatar_url":"https://lh3.googleusercontent.com/a/AEdFTp4h8MxM1Jv4xfngtjZXkiu8rTKcZhcQLtLAPzRZ7w=s100",
+        "type":"person",
+        "person":{}
+    },
+    {
+        "object":"user",
+        "id":"7cd5ca2f-9ff1-4ef7-a8ba-7fe293ae73c1",
+        "name":"testIntegration",
+        "avatar_url":null,
+        "type":"bot",
+        "bot":{
+            "owner":{"type":"workspace","workspace":true},
+            "workspace_name":"ahihi"}
+    }
+]
