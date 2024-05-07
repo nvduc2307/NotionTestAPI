@@ -1,18 +1,36 @@
-D:\nvduc\15. notions\test\bin\Debug\net7.0\test.exe
-D:\nvduc\15. notions\test\bin\Debug\net7.0\test.deps.json
-D:\nvduc\15. notions\test\bin\Debug\net7.0\test.runtimeconfig.json
-D:\nvduc\15. notions\test\bin\Debug\net7.0\test.dll
-D:\nvduc\15. notions\test\bin\Debug\net7.0\test.pdb
-D:\nvduc\15. notions\test\obj\Debug\net7.0\test.GeneratedMSBuildEditorConfig.editorconfig
-D:\nvduc\15. notions\test\obj\Debug\net7.0\test.AssemblyInfoInputs.cache
-D:\nvduc\15. notions\test\obj\Debug\net7.0\test.AssemblyInfo.cs
-D:\nvduc\15. notions\test\obj\Debug\net7.0\test.csproj.CoreCompileInputs.cache
-D:\nvduc\15. notions\test\obj\Debug\net7.0\test.dll
-D:\nvduc\15. notions\test\obj\Debug\net7.0\refint\test.dll
-D:\nvduc\15. notions\test\obj\Debug\net7.0\test.pdb
-D:\nvduc\15. notions\test\obj\Debug\net7.0\test.genruntimeconfig.cache
-D:\nvduc\15. notions\test\obj\Debug\net7.0\ref\test.dll
-D:\nvduc\15. notions\test\bin\Debug\net7.0\RestSharp.dll
-D:\nvduc\15. notions\test\obj\Debug\net7.0\test.csproj.AssemblyReference.cache
-D:\nvduc\15. notions\test\obj\Debug\net7.0\test.csproj.CopyComplete
-D:\nvduc\15. notions\test\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:/nvduc/15. notions/test/bin/Debug/net7.0/test.exe
+D:/nvduc/15. notions/test/bin/Debug/net7.0/test.deps.json
+D:/nvduc/15. notions/test/bin/Debug/net7.0/test.runtimeconfig.json
+D:/nvduc/15. notions/test/bin/Debug/net7.0/test.dll
+D:/nvduc/15. notions/test/bin/Debug/net7.0/test.pdb
+D:/nvduc/15. notions/test/obj/Debug/net7.0/test.GeneratedMSBuildEditorConfig.editorconfig
+D:/nvduc/15. notions/test/obj/Debug/net7.0/test.AssemblyInfoInputs.cache
+D:/nvduc/15. notions/test/obj/Debug/net7.0/test.AssemblyInfo.cs
+D:/nvduc/15. notions/test/obj/Debug/net7.0/test.csproj.CoreCompileInputs.cache
+D:/nvduc/15. notions/test/obj/Debug/net7.0/test.dll
+D:/nvduc/15. notions/test/obj/Debug/net7.0/refint/test.dll
+D:/nvduc/15. notions/test/obj/Debug/net7.0/test.pdb
+D:/nvduc/15. notions/test/obj/Debug/net7.0/test.genruntimeconfig.cache
+D:/nvduc/15. notions/test/obj/Debug/net7.0/ref/test.dll
+D:/nvduc/15. notions/test/bin/Debug/net7.0/RestSharp.dll
+D:/nvduc/15. notions/test/obj/Debug/net7.0/test.csproj.AssemblyReference.cache
+D:/nvduc/15. notions/test/obj/Debug/net7.0/test.csproj.CopyComplete
+D:/nvduc/15. notions/test/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/apple/Nvduc/Code/12.Notions/NotionTestAPI/bin/Debug/net7.0/test
+/Users/apple/Nvduc/Code/12.Notions/NotionTestAPI/bin/Debug/net7.0/test.deps.json
+/Users/apple/Nvduc/Code/12.Notions/NotionTestAPI/bin/Debug/net7.0/test.runtimeconfig.json
+/Users/apple/Nvduc/Code/12.Notions/NotionTestAPI/bin/Debug/net7.0/test.dll
+/Users/apple/Nvduc/Code/12.Notions/NotionTestAPI/bin/Debug/net7.0/test.pdb
+/Users/apple/Nvduc/Code/12.Notions/NotionTestAPI/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/apple/Nvduc/Code/12.Notions/NotionTestAPI/bin/Debug/net7.0/RestSharp.dll
+/Users/apple/Nvduc/Code/12.Notions/NotionTestAPI/obj/Debug/net7.0/test.csproj.AssemblyReference.cache
+/Users/apple/Nvduc/Code/12.Notions/NotionTestAPI/obj/Debug/net7.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Nvduc/Code/12.Notions/NotionTestAPI/obj/Debug/net7.0/test.AssemblyInfoInputs.cache
+/Users/apple/Nvduc/Code/12.Notions/NotionTestAPI/obj/Debug/net7.0/test.AssemblyInfo.cs
+/Users/apple/Nvduc/Code/12.Notions/NotionTestAPI/obj/Debug/net7.0/test.csproj.CoreCompileInputs.cache
+/Users/apple/Nvduc/Code/12.Notions/NotionTestAPI/obj/Debug/net7.0/test.csproj.CopyComplete
+/Users/apple/Nvduc/Code/12.Notions/NotionTestAPI/obj/Debug/net7.0/test.dll
+/Users/apple/Nvduc/Code/12.Notions/NotionTestAPI/obj/Debug/net7.0/refint/test.dll
+/Users/apple/Nvduc/Code/12.Notions/NotionTestAPI/obj/Debug/net7.0/test.pdb
+/Users/apple/Nvduc/Code/12.Notions/NotionTestAPI/obj/Debug/net7.0/test.genruntimeconfig.cache
+/Users/apple/Nvduc/Code/12.Notions/NotionTestAPI/obj/Debug/net7.0/ref/test.dll

@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "KvBskOQTSdDnuiXL3emJ72rGroQfq6YZIDU4Z7hW9yQBS9/ORBxvWX9LTRjjerxFqDu+P57DKRIZp/tGjQ9VJQ==",
+  "dgSpecHash": "ULm/bvegjD17QLFdGffEzUn5QWvDfCiffLqiZto6n91l7HRP/MRLw9Sk9bnHus6eHJiXt1fer/O5hM2Dur+5Mw==",
   "success": true,
-  "projectFilePath": "D:\\nvduc\\15. notions\\test\\test.csproj",
+  "projectFilePath": "/Users/apple/Nvduc/Code/12.Notions/NotionTestAPI/test.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\HC - 09\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\HC - 09\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
-    "C:\\Users\\HC - 09\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\HC - 09\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+    "/Users/apple/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/apple/.nuget/packages/restsharp/110.2.0/restsharp.110.2.0.nupkg.sha512",
+    "/Users/apple/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/apple/.nuget/packages/system.text.json/7.0.2/system.text.json.7.0.2.nupkg.sha512"
   ],
   "logs": []
 }
